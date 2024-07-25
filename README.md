@@ -1,2 +1,2 @@
 # PHP--02_Basic_To_Do_List
-A simple To-Do List application built with PHP, featuring task addition and deletion, persistent storage using a file, and a clean, dark-themed design.
+This is a web page managing to-do lists, with features like adding, editing, and viewing tasks. Utilizes PHP, MySQL, and Bootstrap for UI. Implements database operations and user-friendly design. Includes special pages for task management and recent task display.
