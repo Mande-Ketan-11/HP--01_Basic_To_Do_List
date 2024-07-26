@@ -1,0 +1,5 @@
+Complete the design of the project To-Do List.
+Complete some more projects to practice PHP and Web Development.
+Polish overall skills in PHP and Web Development.
+Complete the project Intern Application Portal.
+Complete the PHP tutorials on YouTube.
